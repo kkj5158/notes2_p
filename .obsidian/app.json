@@ -1,0 +1,13 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": true,
+  "showLineNumber": true,
+  "spellcheck": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "1000.창고",
+  "showUnsupportedFiles": true,
+  "trashOption": "local",
+  "uriCallbacks": false,
+  "readableLineLength": false
+}

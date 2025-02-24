@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "b2052f62eae0e11e",
+    "type": "split",
+    "children": [
+      {
+        "id": "023541f7402c35de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6378c050d62c5390",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘 노트/문법노트/자바 문자, 문자열 처리.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "자바 문자, 문자열 처리"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84c4dbcef003ef8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "38ac0cbd5ccd9624",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27bf3c500ac2fe3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "c3ead1206c4e3fc3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "4dddd8c491f2bd82",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "acf017ed83f876db",
+    "type": "split",
+    "children": [
+      {
+        "id": "18971846e73c9e8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e11977d2ae1d6813",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "fe143435a1be82d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "71884237d77fb4f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "e429a702b262b1f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "알고리즘 노트/문법노트/자바 문자, 문자열 처리.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "자바 문자, 문자열 처리 의 개요"
+            }
+          },
+          {
+            "id": "8028494aa3d2ccfa",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "b1e61a16163c1aa8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:변경사항 게재": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b1e61a16163c1aa8",
+  "lastOpenFiles": [
+    "알고리즘 노트/문법노트/자바 표준 입출력.md",
+    "알고리즘 노트/문법노트/자바 문자, 문자열 처리.md",
+    "알고리즘 노트/풀이전략",
+    "알고리즘 노트/문법노트",
+    "모든것이 HTTP/4_모든것이 HTTP - HTTP 메서드.md",
+    "알고리즘 노트/자바 문법 노트",
+    "모든것이 HTTP/1_모든 것이 HTTP - 인터넷 통신과 프로토콜.md",
+    "객체지향의 사실과 오해/객체지향이란 무엇인가.md",
+    "재고시스템으로 알아보는 동시성 문제/1_재고시스템 만들어보기_문제점.md",
+    "코딩",
+    "알고리즘 노트",
+    "재고시스템으로 알아보는 동시성 문제/3_재고시스템 만들어보기 _ 분산환경 _ DB에서의 동시성처리.md",
+    "항해플러스_과정/4주차 _ 서버구축과 구현/4-1 과제의 발제.md",
+    "항해플러스_과정/5주차_서버구축과 구현 심화",
+    "항해플러스_과정/4주차 _ 서버구축과 구현/4-9 과제의 발전 _ 추가 고려사항.md",
+    "항해플러스_과정/4주차 _ 서버구축과 구현/4-8 과제의 회고.md",
+    "항해플러스_과정/4주차 _ 서버구축과 구현/4-6 과제의 이론 -.md",
+    "항해플러스_과정/4주차 _ 서버구축과 구현/4-7 과제의 이론.md",
+    "항해플러스_과정/4주차 _ 서버구축과 구현/4-6 과제의 이론.md",
+    "항해플러스_과정/4주차 _ 서버구축과 구현/4-5 과제의 이론 -.md",
+    "항해플러스_과정/4주차 _ 서버구축과 구현/4-4 과제의 구현 - 통합테스트 작성 및 구현.md",
+    "항해플러스_과정/4주차 _ 서버구축과 구현/4-3 과제의 구현 - 단위테스트 작성 및 구현.md",
+    "항해플러스_과정/4주차 _ 서버구축과 구현/4-2 과제의 구현 - 기본 구현.md",
+    "항해플러스_과정/4주차 _ 서버구축과 구현",
+    "항해플러스_과정/3주차_서버구축과 설계/3-11 과제의 발전 _ 추가 고려사항.md",
+    "항해플러스_과정/3주차_서버구축과 설계/3-10 과제의 회고 (WIL + KPT).md",
+    "항해플러스_과정/3주차_서버구축과 설계/3-9 과제의 이론 _ 설계를 위한 이론.md",
+    "항해플러스_과정/3주차_서버구축과 설계/3-8 과제의 이론 _ 설계를 위한 이론.md",
+    "항해플러스_과정/3주차_서버구축과 설계/3-7 과제의 이론 _ 설계를 위한 이론.md",
+    "항해플러스_과정/3주차_서버구축과 설계/3-6 과제의 이론 _ 설계를 위한 이론.md",
+    "항해플러스_과정/3주차_서버구축과 설계/3-1 과제의 발제.md",
+    "항해플러스_과정/3주차_서버구축과 설계/3-5 과제의 이론 _ 설계를 위한 이론.md",
+    "항해플러스_과정/3주차_서버구축과 설계/3-4 과제의 구현 _ 심화 설계.md",
+    "1000.창고/img (1).png",
+    "1000.창고/Untitled 1.png",
+    "1000.창고/Untitled.png",
+    "1000.창고/Pasted image 20250101065907.png",
+    "1000.창고/Pasted image 20250101065841.png",
+    "1000.창고/Pasted image 20250101065814.png",
+    "1000.창고/Pasted image 20250101065806.png",
+    "항해플러스_과정/3주차_서버구축과 설계/1000.학습자료",
+    "항해플러스_과정/3주차_서버구축과 설계",
+    "1000.창고/123123.png",
+    "1000.창고/123.png",
+    "재고시스템으로 알아보는 동시성 문제/1000.학습자료",
+    "1000.창고/Pasted image 20241224151259.png"
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "99afd38943936055",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cdf63d28a2970d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d64ae11d48e25b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/4_Code/가독성 높은 코드를 작성하라.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f411c973dba1843",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee3e64652db468ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "622c76bece7d71c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "59689be69e34aef2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e765604ff7e3c0d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fbccfda56d7286c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "4511f5b176de695c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "758c5a6117cf7c0e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Blog/4_Code/가독성 높은 코드를 작성하라.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "74a418857a21b639",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Blog/4_Code/가독성 높은 코드를 작성하라.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9cc6f19d4105e247",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0d2ac6af4fbaed23",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Blog/4_Code/가독성 높은 코드를 작성하라.md"
+              }
+            }
+          },
+          {
+            "id": "5d04a7659ff76c5f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:변경사항 출판": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "3d64ae11d48e25b4",
+  "lastOpenFiles": [
+    "Blog/0_CS/비동기 완벽 이해하기.md",
+    "Pasted image 20231030010901.png",
+    "Blog/5_Android/WEB VIEW.md",
+    "Blog/5_Android",
+    "Blog/0_1_창고/이미지/프로토콜의 계층.png",
+    "Blog/0_1_창고/이미지/소개짤.png",
+    "Blog/0_1_창고/이미지/도커컴포즈이미지.png",
+    "Blog/0_1_창고/이미지/도커컴포즈.png",
+    "Blog/0_1_창고/이미지/김영한.png",
+    "Blog/0_1_창고/이미지/검증과정.png",
+    "Blog/0_1_창고/이미지/Pasted image 20231024091452.png",
+    "Blog/0_1_창고/이미지/Pasted image 20231024091421.png",
+    "Blog/0_1_창고/이미지/Pasted image 20231024091407.png",
+    "Blog/4_Code/가독성 높은 코드를 작성하라.md",
+    "0_0_0_개인/to-do-List/To-do List _ 공부.md",
+    "0_0_0_개인/to-do-List/To-do List _ 업무.md",
+    "0_0_0_개인/to-do-List/To-do List _ 개인-DESKTOP-6EF7GEJ.md",
+    "Blog/4_Code",
+    "1_업무관련/무제 폴더",
+    "0_0_0_개인/to-do-List/To-do List _ 개인.md",
+    "0_0_0_개인/to-do-List/0_우선순위 프로세스 _ 식스 블록.md",
+    "0_0_0_개인/0_1_옵시디언/옵시디언 플러그인.md",
+    "0_0_0_개인/0_0_STAR/STAR.md",
+    "1_업무관련/LVAN 이해하기/LVAN 업무.md",
+    "1_업무관련/LVAN 이해하기",
+    "Blog/0_CS/네트워크/1_모든것이 HTTP/3_모든 것이 HTTP - HTTP 기본.md",
+    "Blog/1_DB/0_SQL/검색엔진으로서의 SQL.md",
+    "Blog/1_DB/0_SQL/대용량 데이터 , SQL과 Elastic 동기화 시키기.md",
+    "Blog/0_CS/API/API.md",
+    "Blog/0_CS/API/REST API.md",
+    "Blog/0_CS/운영체제/프로세스/프로세스와 스레드.md",
+    "Blog/0_CS/네트워크/1_모든것이 HTTP/4_모든것이 HTTP - HTTP 메서드.md",
+    "Blog/0_CS/네트워크/1_모든것이 HTTP/2_모든 것이 HTTP - URI와 요청 흐름.md",
+    "Blog/0_CS/네트워크/1_모든것이 HTTP/1_모든 것이 HTTP - 인터넷 통신과 프로토콜.md",
+    "1_업무관련/업무/Mid와 Pmid의 차이점.md",
+    "Blog/3_BakcEnd/OOP/1_Spring/Scheduler/Quartz 배치 클러스터링.md",
+    "Blog/3_BakcEnd/OOP/1_Spring/Scheduler",
+    "1_업무관련/패스워드/젠킨스 계정.md",
+    "1_업무관련/패스워드/소나큐브.md",
+    "Blog/3_BakcEnd/ORM/RDB/데이터 Insert 시, FK 방어로직에 대한 고찰.md",
+    "Blog/3_BakcEnd/ORM/RDB",
+    "Blog/3_BakcEnd/ORM/QueryDSL/QueryDSL 빌드 에러.md",
+    "Blog/3_BakcEnd/ORM/QueryDSL",
+    "1_업무관련/Validation",
+    "1_업무관련/모바일환경 에러 처리",
+    "1_업무관련/0_창고",
+    "무제 파일.canvas"
+  ]
+}

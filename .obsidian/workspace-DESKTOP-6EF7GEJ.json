@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "99afd38943936055",
+    "type": "split",
+    "children": [
+      {
+        "id": "af003bc5e7106345",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "335d883403d41ef5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "옵시디언/옵시디언 플러그인.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f411c973dba1843",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee3e64652db468ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "622c76bece7d71c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "59689be69e34aef2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e765604ff7e3c0d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fbccfda56d7286c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "4511f5b176de695c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "758c5a6117cf7c0e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "옵시디언/옵시디언 플러그인.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "74a418857a21b639",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "옵시디언/옵시디언 플러그인.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9cc6f19d4105e247",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0d2ac6af4fbaed23",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "옵시디언/옵시디언 플러그인.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "622c76bece7d71c5",
+  "lastOpenFiles": [
+    "옵시디언/Make_md.md",
+    "옵시디언/옵시디언 플러그인.md",
+    "CS/네트워크/모든것이 HTTP/4. 모든것이 HTTP - HTTP 메서드.md",
+    "옵시디언",
+    "context.mdb",
+    "제텔카스텐의 원칙들.md",
+    "CS/네트워크/모든것이 HTTP/5. 모든 것이 HTTP - HTTP 메서드 활용.md",
+    "CS/네트워크/모든것이 HTTP/3. 모든 것이 HTTP - HTTP 기본.md",
+    "CS/네트워크/모든것이 HTTP/2. 모든 것이 HTTP - URI와 요청 흐름.md",
+    "CS/네트워크/모든것이 HTTP/1. 모든 것이 HTTP - 인터넷 통신과 프로토콜.md",
+    "DB/Elastic Search.md",
+    "CS/운영체제/프로세스/프로세스와 스레드.md",
+    "CS/네트워크/서버 구축을 위한, 네트워크 기초.md",
+    "CS/API/REST API.md",
+    "Kafka/창고/이미지/Devops/RestApi.png.md",
+    "Kafka/창고/이미지/Devops",
+    "Kafka/창고/이미지",
+    "Kafka/창고",
+    "Kafka",
+    "CS/API/API.md",
+    "OOP/객체지향이란 무엇인가.md",
+    "OOP/ISP (인터페이스 분리 원칙).md",
+    "OOP/DIP (의존 역전 원칙).md",
+    "OOP/스프링과 객체지향.md",
+    "DB/검색엔진으로서의 SQL.md",
+    "취업/기술 면접/기술 면접 질문 모음.md",
+    "취업/기술 면접",
+    "취업"
+  ]
+}

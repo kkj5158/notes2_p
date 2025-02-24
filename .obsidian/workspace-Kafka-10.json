@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "99afd38943936055",
+    "type": "split",
+    "children": [
+      {
+        "id": "13b4b6f9476f0b14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1906d78f12fd5845",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_DB/Docker로 ELK 구축하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "edabf55815848e82",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "0_1_창고/소개짤.png"
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f411c973dba1843",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee3e64652db468ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "622c76bece7d71c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "59689be69e34aef2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e765604ff7e3c0d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fbccfda56d7286c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "4511f5b176de695c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "758c5a6117cf7c0e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1_DB/Docker로 ELK 구축하기.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "74a418857a21b639",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1_DB/Docker로 ELK 구축하기.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9cc6f19d4105e247",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0d2ac6af4fbaed23",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1_DB/Docker로 ELK 구축하기.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "publish:변경사항 출판": false
+    }
+  },
+  "active": "1906d78f12fd5845",
+  "lastOpenFiles": [
+    "2_Devops/0_개념/LG U+ 공유기 DDNS 설정.md",
+    "2_Devops/0_개념/윈도우 서버 구축하기.md",
+    "2_Devops/Docker-Compose.md",
+    "2_Devops/2_Docker/Docker 와 Docker-Compose 를 이용한 서버 구축.md",
+    "2_Devops/2_Docker/Docker-Compose.md",
+    "2_Devops/2_Docker/Docker.md",
+    "2_Devops/2_Docker",
+    "2_Devops/무제 폴더",
+    "2_Devops/1_AWS/AWS EC2에 Docker 와 Docker Compose 설치.md",
+    "2_Devops/1_AWS/AWS EC2 구축하기.md",
+    "2_Devops/1_AWS",
+    "2_Devops/0_개념",
+    "3_BakcEnd/OOP/1_Spring/스프링과 객체지향.md",
+    "3_BakcEnd/OOP/1_Spring",
+    "3_BakcEnd/OOP/1_스프링/스프링과 객체지향.md",
+    "3_BakcEnd/OOP/1_스프링",
+    "3_BakcEnd/OOP/0_개념/객체지향이란 무엇인가.md",
+    "3_BakcEnd/OOP/0_개념/SRP (단일 책임 원칙).md",
+    "3_BakcEnd/OOP/0_개념/OCP ( 개방 폐쇄 원칙).md",
+    "3_BakcEnd/OOP/0_개념/LSP (리스코프 치환 원칙).md",
+    "3_BakcEnd/OOP/0_개념/ISP (인터페이스 분리 원칙).md",
+    "3_BakcEnd/OOP/0_개념/DIP (의존 역전 원칙).md",
+    "3_BakcEnd/OOP/0_개념",
+    "3_BakcEnd/OOP/스프링/스프링과 객체지향.md",
+    "3_BakcEnd/OOP/스프링",
+    "3_BakcEnd/OOP/개념/LSP (리스코프 치환 원칙).md",
+    "3_BakcEnd/OOP/개념/OCP ( 개방 폐쇄 원칙).md",
+    "3_BakcEnd/OOP/개념/SRP (단일 책임 원칙).md",
+    "3_BakcEnd/OOP/개념/DIP (의존 역전 원칙).md",
+    "3_BakcEnd/OOP/개념/ISP (인터페이스 분리 원칙).md",
+    "3_BakcEnd/OOP/개념/객체지향이란 무엇인가.md",
+    "3_BakcEnd/OOP/개념",
+    "3_BakcEnd/OOP/무제 폴더",
+    "1_DB/대용량 데이터 , SQL로 관리하기.md",
+    "1_DB/무제 파일.md",
+    "1_DB/대용량 데이터 , SQL과 Elastic 동기화 시키기.md",
+    "Pasted image 20230822225358.png",
+    "Pasted image 20230822224150.png",
+    "도커컴포즈.png",
+    "Pasted image 20230822222528.png",
+    "0_1_창고/소개짤.png",
+    "0_1_창고/이미지/Devops/도커컴포즈를활용한배포.png",
+    "무제 파일.canvas"
+  ]
+}
