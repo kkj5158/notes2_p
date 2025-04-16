@@ -74,7 +74,8 @@
               "title": "북마크"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6378c050d62c5390",
+  "active": "c3ead1206c4e3fc3",
   "lastOpenFiles": [
     "김영한의 실전 자비 기본/10-1 다형성.md",
     "김영한의 실전 자비 기본/10-2 다형성.md",
